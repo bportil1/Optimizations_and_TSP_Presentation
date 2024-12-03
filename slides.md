@@ -44,9 +44,12 @@ background: transparent
 layout: cover
 background: /msu-bg.jpg 
 ---
-
 	Gradient descent
-		-demo on simple surface  sphere
+		- show simple version
+---
+	
+<iframe src="/adam_optimization_booth.html" width="100%" height="100%" style="border: none; position: absolute; top:0; left: 0; right: 0; bottom: 0; display: block; "></iframe>
+
 
 ---
 layout: cover
@@ -60,8 +63,7 @@ layout: cover
 background: /msu-bg.jpg
 ---
 
-	Simmulated Annealing 
-		-demo on simple surface(likely sphere)
+<iframe src="/sa_optimization_booth.html" width="100%" height="100%" style="border: none; position: absolute; top:0; left: 0; right: 0; bottom: 0; display: block; "></iframe>
 		
 ---
 layout: cover
@@ -74,8 +76,19 @@ layout: cover
 background: /msu-bg.jpg
 ---
 
-	Particle Swarm and FF Visualizations 
-		-demo on ackley
+<iframe src="/pso_optimization_booth.html" width="100%" height="100%" style="border: none; position: absolute; top:0; left: 0; right: 0; bottom: 0; display: block; "></iframe>
+
+---
+
+<div class="grid grid-cols-2 gap-4">
+    <div>
+        <img src="/newplot(3).png" />
+    </div>
+    <div>
+        <img src="/newplot(4).png" />
+    </div>
+</div>
+
 ---
 layout: cover
 background: /msu-bg.jpg
